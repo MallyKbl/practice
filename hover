@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
 
+<body>
 <nav class="layer">
 	<ul>
 		<li>1</li>
@@ -13,3 +17,4 @@
 <section class="home page layer">
 	<h1>Practice <br>makes perfect</h1>
 </section>
+</body>
