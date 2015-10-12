@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<nav class="layer">
+	<ul>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
+		<li>4</li>
+		<li>Contact</li>
+	</ul>
+</nav>
+
+<section class="home page layer">
+	<h1>Practice <br>makes perfect</h1>
+</section>
